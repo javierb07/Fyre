@@ -6562,16 +6562,16 @@ and LEDs</text>
 <wire x1="279.4" y1="182.88" x2="279.4" y2="-30.48" width="1.27" layer="94"/>
 <wire x1="279.4" y1="-30.48" x2="0" y2="-30.48" width="1.27" layer="94"/>
 <wire x1="0" y1="-30.48" x2="0" y2="182.88" width="1.27" layer="94"/>
-<wire x1="5.08" y1="93.98" x2="53.34" y2="93.98" width="1.27" layer="97" style="longdash"/>
-<wire x1="53.34" y1="93.98" x2="109.22" y2="93.98" width="1.27" layer="97" style="longdash"/>
-<wire x1="109.22" y1="93.98" x2="274.32" y2="93.98" width="1.27" layer="97" style="longdash"/>
-<wire x1="109.22" y1="93.98" x2="109.22" y2="33.02" width="1.27" layer="97" style="longdash"/>
-<wire x1="109.22" y1="33.02" x2="109.22" y2="-25.4" width="1.27" layer="97" style="longdash"/>
-<wire x1="109.22" y1="33.02" x2="165.1" y2="33.02" width="1.27" layer="97" style="longdash"/>
-<wire x1="165.1" y1="33.02" x2="274.32" y2="33.02" width="1.27" layer="97" style="longdash"/>
-<wire x1="165.1" y1="33.02" x2="165.1" y2="-25.4" width="1.27" layer="97" style="longdash"/>
-<wire x1="109.22" y1="33.02" x2="5.08" y2="33.02" width="1.27" layer="97" style="longdash"/>
-<wire x1="53.34" y1="177.8" x2="53.34" y2="93.98" width="1.27" layer="97" style="longdash"/>
+<wire x1="5.08" y1="93.98" x2="53.34" y2="93.98" width="1.27" layer="94" style="longdash"/>
+<wire x1="53.34" y1="93.98" x2="109.22" y2="93.98" width="1.27" layer="94" style="longdash"/>
+<wire x1="109.22" y1="93.98" x2="274.32" y2="93.98" width="1.27" layer="94" style="longdash"/>
+<wire x1="109.22" y1="93.98" x2="109.22" y2="33.02" width="1.27" layer="94" style="longdash"/>
+<wire x1="109.22" y1="33.02" x2="109.22" y2="-25.4" width="1.27" layer="94" style="longdash"/>
+<wire x1="109.22" y1="33.02" x2="165.1" y2="33.02" width="1.27" layer="94" style="longdash"/>
+<wire x1="165.1" y1="33.02" x2="274.32" y2="33.02" width="1.27" layer="94" style="longdash"/>
+<wire x1="165.1" y1="33.02" x2="165.1" y2="-25.4" width="1.27" layer="94" style="longdash"/>
+<wire x1="109.22" y1="33.02" x2="5.08" y2="33.02" width="1.27" layer="94" style="longdash"/>
+<wire x1="53.34" y1="177.8" x2="53.34" y2="93.98" width="1.27" layer="94" style="longdash"/>
 <text x="20.32" y="119.38" size="1.778" layer="97">Connection to
 optical sensor module</text>
 <text x="203.2" y="157.48" size="1.778" layer="97">Connection to
