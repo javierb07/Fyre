@@ -4879,7 +4879,7 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf&lt;/il&gt;
 <part name="DEBUG1" library="LinnesLab-Connectors" deviceset="CORTEX_DEBUG" device="_PTH" override_package3d_urn="urn:adsk.eagle:package:18579095/2" override_package_urn="urn:adsk.eagle:footprint:18579096/1"/>
 <part name="SW2" library="LinnesLab-Switches" deviceset="SPST-PTS830GG140-COPY" device=".1-3" package3d_urn="urn:adsk.eagle:package:18580190/2"/>
 <part name="GND30" library="LinnesLab-Symbols" deviceset="GND" device=""/>
-<part name="SW4" library="LinnesLab-Switches" deviceset="SPST-PTS830GG140-COPY" device=".1-3" package3d_urn="urn:adsk.eagle:package:18580190/2"/>
+<part name="RESET" library="LinnesLab-Switches" deviceset="SPST-PTS830GG140-COPY" device=".1-3" package3d_urn="urn:adsk.eagle:package:18580190/2"/>
 <part name="U1" library="LinnesLab-Microcontrollers" deviceset="NRF52832_MODULE_MDBT42" device="" override_package3d_urn="urn:adsk.eagle:package:18593121/2" override_package_urn="urn:adsk.eagle:footprint:18593122/1"/>
 <part name="LED1" library="LinnesLab-LED" deviceset="LED" device="0603" package3d_urn="urn:adsk.eagle:package:18593052/2" value="RED"/>
 <part name="LED2" library="LinnesLab-LED" deviceset="LED" device="0603" package3d_urn="urn:adsk.eagle:package:18593052/2" value="BLUE"/>
@@ -5267,7 +5267,7 @@ RX and TX are mixed up</text>
 <instance part="GND30" gate="G$1" x="185.42" y="251.46" smashed="yes">
 <attribute name="VALUE" x="185.42" y="251.206" size="1.778" layer="96" align="top-center"/>
 </instance>
-<instance part="SW4" gate="G$1" x="373.38" y="127" smashed="yes">
+<instance part="RESET" gate="G$1" x="373.38" y="127" smashed="yes">
 <attribute name="NAME" x="370.84" y="124.46" size="1.27" layer="95"/>
 <attribute name="VALUE" x="370.84" y="121.92" size="1.27" layer="96"/>
 </instance>
@@ -5640,7 +5640,7 @@ RX and TX are mixed up</text>
 <wire x1="378.46" y1="127" x2="381" y2="127" width="0.1524" layer="91"/>
 <wire x1="381" y1="127" x2="381" y2="124.46" width="0.1524" layer="91"/>
 <pinref part="GND28" gate="G$1" pin="GND"/>
-<pinref part="SW4" gate="G$1" pin="B"/>
+<pinref part="RESET" gate="G$1" pin="B"/>
 </segment>
 <segment>
 <wire x1="350.52" y1="193.04" x2="347.98" y2="193.04" width="0.1524" layer="91"/>
@@ -5911,7 +5911,7 @@ RX and TX are mixed up</text>
 <segment>
 <wire x1="365.76" y1="127" x2="368.3" y2="127" width="0.1524" layer="91"/>
 <label x="365.76" y="127" size="1.27" layer="95" rot="R180" xref="yes"/>
-<pinref part="SW4" gate="G$1" pin="A"/>
+<pinref part="RESET" gate="G$1" pin="A"/>
 </segment>
 <segment>
 <wire x1="386.08" y1="193.04" x2="383.54" y2="193.04" width="0.1524" layer="91"/>
