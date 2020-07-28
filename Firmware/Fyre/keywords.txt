@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map for KickJrPPG
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+KickJrPPG	KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+
+turnLEDOn	KEYWORD2
+turnLEDOff	KEYWORD2
+getLEDStatus	KEYWORD2
+
+setLEDCurrent	KEYWORD2
+getLEDCurrent	KEYWORD2
+balanceLEDCurrent	KEYWORD2
+
+setTIAGain	KEYWORD2
+getTIAGain	KEYWORD2
+balanceTIAGain	KEYWORD2
+
+setPPGGain	KEYWORD2
+getPPGGain	KEYWORD2
+
+getTIA	KEYWORD2
+getPPG	KEYWORD2
+
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
